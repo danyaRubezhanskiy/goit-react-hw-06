@@ -12,7 +12,6 @@ import {
   REGISTER,
 } from "redux-persist";
 
-// Конфигурация persist
 const persistConfig = {
   key: "contacts",
   storage,
